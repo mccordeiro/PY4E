@@ -1,2 +1,2 @@
 # PY4E
-Repository for Python for Everyone Assignmen ts
+Repository for Python for Everyone Assignments
